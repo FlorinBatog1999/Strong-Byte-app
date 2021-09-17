@@ -1,1 +1,0 @@
-# strong-byte-app
